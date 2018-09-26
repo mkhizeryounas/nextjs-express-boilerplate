@@ -20,7 +20,7 @@ export default class Page extends Component {
       shows: data
     };
   }
-
+  componentDidMount() {}
   render() {
     return (
       <Layout>
